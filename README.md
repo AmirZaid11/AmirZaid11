@@ -3,7 +3,11 @@
 - 🌱 I’m currently learning coding ...
 - 💞️ I’m looking to collaborate on projects...
 - 📫 How to reach me +2547152644486 ...
-<p align  = center> <a href="#"><img title="AMIR ZAID" src="https://telegra.ph/file/6b78254bab482a544360b.jpg/AMIR ZAID-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> </p>
+<p align="center">
+    <a href="https://telegra.ph/file/6b78254bab482a544360b.jpg">
+        <img src="https://img.shields.io/badge/AMIR%20ZAID-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge" title="AMIR ZAID" />
+    </a>
+</p>
 
 
 <!---
