@@ -34,6 +34,9 @@ Let's connect and build something awesome together! 🌟
         <img src="https://img.shields.io/badge/AMIR%20ZAID-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge" alt="AMIR ZAID" title="AMIR ZAID" />
     </a>
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=008000&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;Thank+you+for+visiting+my+Repo;I+am+AMIR ZAID;I'm+looking+forwad+for+your+feedback;Love+you+💖+🫂+💕🙃" alt="Typing SVG" />
+</p>
 
 
 <!---
