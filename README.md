@@ -21,7 +21,7 @@ You are welcome to browse through my repositories to discover more about my proj
 
 I am perpetually receptive to collaborations and conversations. If you have any inquiries, suggestions, or simply wish to greet me, please don't hesitate to contact me:
 
-- **Email:** your.email@example.com
+- **Email:** eddysimba9@gmail.com
 - **LinkedIn:** [Amir Zaid](https://www.linkedin.com/in/amirzaid)
 - **Twitter:** [@amir_zaid](https://twitter.com/amir_zaid)
 
