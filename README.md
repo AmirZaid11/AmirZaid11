@@ -1,4 +1,4 @@
-#Greetings and welcome to my GitHub page! 🚀
+##Greetings and welcome to my GitHub page! 🚀
 
 Greetings! I am Amir Zaid, a Computer Science student , with a strong enthusiasm for web development and technology.👨‍💻
 
