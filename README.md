@@ -4,7 +4,7 @@ Greetings! I am Amir Zaid, a Computer Science student , with a strong enthusiasm
 
 ## About Me ℹ️
 
-I have a profound interest in delving into the domains of Web development, encompassing the creation of visually captivating and adaptable websites as well as immersing myself in the area of backend technology. I possess a strong passion for acquiring knowledge in emerging technologies and frameworks. I am continuously motivated to enhance my abilities and take on stimulating tasks.
+I'm quite interested in exploring the fields of Web development, which includes making visually appealing and flexible websites and learning about backend technology. I'm really passionate in learning about new frameworks and technologies. I'm constantly driven to improve my skills and take on challenging assignments.
 
 ## Projects 🛠️
 
